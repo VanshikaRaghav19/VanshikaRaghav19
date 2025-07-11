@@ -7,7 +7,7 @@ ______________
 Skills   |Power Level 💥| Notes 
 -------------------------------------
 Python 🐍|  9.5/10      | Fluent in                          talking to                          snakes 😜
-C# ⚙️    |    8/10      | Sometimes                           confused                           with music 
+C++ ⚙️   |    8/10      | Sometimes                           confused                           with music 
 Blender🫙|    8.5/10    | Blend                               more than                           smoothies
 DAZ 3️⃣   |    9/10      | Character                           = Custom.                           Attitude=                           Default 
 Figma 🎨 |  8.5/10      | UI so                               clean, it                           squeaks 
