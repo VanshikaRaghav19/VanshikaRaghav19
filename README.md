@@ -7,23 +7,17 @@ ______________
 Skills   |Power Level 💥| Notes 
 -------------------------------------
 Python 🐍|  9.5/10      | Fluent in                          talking to                          snakes 😜
-C++ ⚙️   |    8/10      | Sometimes                           confused                           with music 
-Blender🫙|    8.5/10    | Blend                               more than                           smoothies
 DAZ 3️⃣   |    9/10      | Character                           = Custom.                           Attitude=                           Default 
 Figma 🎨 |  8.5/10      | UI so                               clean, it                           squeaks 
+Math ➗  |  9/10      
 _______________
 _______________
 ## 🛠️ What I Do
-**Make 3D characters** look cooler than me IRL... 🤕
-**Game-ready animations** (because why not add drama to every click!!)
-**UI/UX design** that won’t hurt your eyes (I promise 🤞)...
 **Code experiments** that sometimes... explode
 **Bug whisperer** Level: 99 😁😋
 _______________
 _______________
 ## 🚧 Currently Working On
-Bringing characters to life without accidentally summoning Skynet...
-Creating animations that do more than T-pose...
 Learning how to fix bugs **before** they become features...
 ______________
 ______________
